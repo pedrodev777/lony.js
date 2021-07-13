@@ -1,1 +1,12 @@
-{}
+[{
+  "name":"help",
+  "description": "Te mostra a lista e informações sobre os comandos.",
+  "category": "Informação",
+  "aliases": ["ajuda"],
+  "usage":"#PREFIX# [Nome do comando]",
+  "examples":["help","ajuda emojinfo", "help avatar"],
+  "permissions": {
+    "user":[],
+    "bot":[]
+  }
+}]
